@@ -1,6 +1,6 @@
 ---
 banner:
-  title: Hi! I’m <br> Christoher <br> UX designer
+  title: Hi! I’m <br> ChristoPPPher <br> UX designer
 about:
   enable: true
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -134,7 +134,7 @@ clients_logo_slider:
     URL: http://examplesite.com
   - logo: images/clients-logo/client-logo-5.png
     URL: "#"
-  title: people I've worked with
+  title: ''
 blog:
   enable: true
   title: Blogs
